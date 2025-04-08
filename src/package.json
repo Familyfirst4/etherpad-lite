@@ -70,7 +70,7 @@
     "ueberdb2": "^2.2.4",
     "underscore": "1.13.3",
     "unorm": "1.6.0",
-    "wtfnode": "^0.9.1"
+    "wtfnode": "^0.10.0"
   },
   "bin": {
     "etherpad": "node/server.js",
